@@ -1,11 +1,4 @@
-![motto](https://github.com/samlss/Summary/blob/master/motto0.gif)
-
 # 个人开发总结
-
-- csdn：https://blog.csdn.net/Samlss
-- 简书: https://www.jianshu.com/u/c13c37d30ac8
-- 掘金: https://juejin.im/user/5b67fb7d6fb9a04fb6150b56
-
 
 # UI篇
 * [Android Paint系列之基础+着色器渲染器(实现霓虹灯文字+实现圆形头像+放大镜+倒影+雷达扫描效果)](https://blog.csdn.net/samlss/article/details/80807110)
